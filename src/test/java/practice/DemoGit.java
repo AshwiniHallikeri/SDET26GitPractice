@@ -7,7 +7,7 @@ public class DemoGit {
 	public void DemoTest() {
 		System.out.println("push to git hub");
 		System.out.println("Update");
-		System.out.println("update2");
+		System.out.println("update123");
 	}
 
 }
