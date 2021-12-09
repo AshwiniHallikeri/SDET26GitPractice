@@ -7,7 +7,11 @@ public class DemoGit {
 	public void DemoTest() {
 		System.out.println("push to git hub");
 		
-		System.out.println("Welcome to github");
+		System.out.println("Welcome to github friends");
+		
+		System.out.println("additional line added");
+		
+		System.out.println("im adding this line now");
 	}
 
 }

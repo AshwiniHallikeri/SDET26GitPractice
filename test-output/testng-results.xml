@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-09T13:46:50 IST" name="Default suite" finished-at="2021-12-09T13:46:50 IST" duration-ms="85">
+  <suite name="Default suite" duration-ms="63" started-at="2021-12-09T09:37:42Z" finished-at="2021-12-09T09:37:42Z">
     <groups>
     </groups>
-    <test started-at="2021-12-09T13:46:50 IST" name="Default test" finished-at="2021-12-09T13:46:50 IST" duration-ms="85">
+    <test name="Default test" duration-ms="63" started-at="2021-12-09T09:37:42Z" finished-at="2021-12-09T09:37:42Z">
       <class name="practice.DemoGit">
-        <test-method signature="DemoTest()[pri:0, instance:practice.DemoGit@747edf66]" started-at="2021-12-09T13:46:50 IST" name="DemoTest" finished-at="2021-12-09T13:46:50 IST" duration-ms="15" status="PASS">
+        <test-method status="PASS" signature="DemoTest()[pri:0, instance:practice.DemoGit@573f2bb1]" name="DemoTest" duration-ms="18" started-at="2021-12-09T15:07:42Z" finished-at="2021-12-09T15:07:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DemoTest -->
