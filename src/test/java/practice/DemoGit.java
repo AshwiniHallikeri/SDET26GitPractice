@@ -12,6 +12,9 @@ public class DemoGit {
 		System.out.println("additional line added");
 		
 		System.out.println("im adding this line now");
+		
+		System.out.println("Update");
+
 	}
 
 }
