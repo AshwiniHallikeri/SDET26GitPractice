@@ -6,6 +6,8 @@ public class DemoGit {
 	@Test
 	public void DemoTest() {
 		System.out.println("push to git hub");
+		
+		System.out.println("Welcome to github");
 	}
 
 }
